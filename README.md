@@ -1,2 +1,2 @@
-# My-first-OK-calculator
+# Shidy calc
 Programming class project 
